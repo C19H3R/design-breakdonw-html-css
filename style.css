@@ -1,0 +1,30 @@
+.color-bg-0 {
+   background-color: white;
+}
+.color-bg-1 {
+   background-color: rgb(194, 194, 194);
+}
+.color-bg-2 {
+   background-color: rgb(170, 170, 170);
+}
+.color-bg-3 {
+   background-color: rgb(114, 114, 114);
+}
+.color-bg-4 {
+   background-color: rgb(56, 56, 56);
+}
+.color-bg-5 {
+   background-color: rgb(0, 0, 0);
+}
+.color-bg-link {
+   background-color: rgb(92, 92, 255);
+}
+.color-bg-error {
+   background-color: rgb(243, 93, 93);
+}
+.color-bg-warning {
+   background-color: rgb(255, 144, 92);
+}
+.color-bg-img {
+   background-color: rgb(8, 39, 1);
+}
